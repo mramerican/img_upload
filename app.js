@@ -1,5 +1,7 @@
+// TODO: https://console.firebase.google.com/u/1/
 import firebase from 'firebase/app';
 import 'firebase/storage';
+
 import {upload} from "./upload";
 
 const firebaseConfig = {
